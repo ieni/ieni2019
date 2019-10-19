@@ -10,9 +10,9 @@ Hier vind je het programma, en later de presentaties en andere materialen.
 
 ## Praktische gegevens
 
-* aanmelden via:
-* data: woensdag 6 november, donderdag 7 november
-* locatie:
+* [Aanmelden is vanaf nu mogelijk!](https://www.smink-registratie.nl/ieni/)
+* data: woensdag 6 november van 16.00 tot 20.30 uur, donderdag 7 november van 9.00 tot 17.00 uur
+* locatie: [Koningsbergergebouw te Universiteit Utrecht](https://goo.gl/maps/7CdkZcuYwsL2).
 
 ## Programma:
 

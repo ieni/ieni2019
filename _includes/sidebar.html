@@ -1,6 +1,6 @@
 <!-- Target for toggling the sidebar `.sidebar-checkbox` is for regular
      styles, `#sidebar-checkbox` for behavior. -->
-<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox" checked>
+<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox" >
 
 <!-- Toggleable sidebar -->
 <div class="sidebar" id="sidebar">
@@ -11,8 +11,9 @@
 
   <nav class="sidebar-nav">
     <a class="sidebar-nav-item{% if page.title == "Home" %} active{% endif %}" href="{{ site.baseurl }}/">Home</a>
+{% comment %}
     <a class="sidebar-nav-item{% if page.title == "Nieuws" %} active{% endif %}" href="{{ site.baseurl }}/nieuws.html">Nieuws</a>
-
+{% endcomment %}
     <span class="sidebar-nav-item">Algemeen:</span>
     {% assign algemeen_list = site.algemeen %}
     {% for node in algemeen_list %}
@@ -27,6 +28,10 @@
         {% endif %}
       {% endif %}
     {% endfor %}
+
+{% comment %}
+De navigatie voor thema's e.d. is tijdelijk uitgeschakeld,
+totdat er meer materiaal beschikbaar is.
 
     <span class="sidebar-nav-item">Digitale geletterdheid:</span>
     {% assign dg_list = site.dg %}
@@ -72,7 +77,7 @@
         {% endif %}
       {% endif %}
     {% endfor %}
-
+{% endcomment %}
 
     <span class="sidebar-nav-item">----</span>
     {% comment %}

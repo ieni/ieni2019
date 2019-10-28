@@ -5,7 +5,6 @@ thema: programma-overzicht
 ---
 
 
-
 Voor alle 12 keuzethema's in het examenprogramma ontwikkelt SLO een uitgebreide lesmodule. Inmiddels zijn negen van deze modules ver gevorderd of afgerond. De kartrekkers van deze negen modules begeleiden tijdens de conferentie ieder een workshop waarin zij u een introductie geven in het keuzethema en het lesmateriaal. Voor uitgebreidere cursussen over deze keuzethema's en het lesmateriaal, zie: https://ieni.github.io/inf2019/nascholing.html
 
 
@@ -43,7 +42,7 @@ Wij als school willen graag het codeer-/programmeeronderwijs in Nederland (po/vo
 We hebben ook oog voor het lerarentekort en denken een (hybride)oplossing hiervoor te hebben gevonden. Of het werkt? Dat zal de komende jaren uit de praktijk moeten blijken.  We zijn gestart met de voorbereiding om te komen tot een landelijk (nieuw) examenvak programmeren.
 We delen graag onze kennis/ervaring en we zijn ook zeer benieuwd naar kennis/ervaring/ideeën van anderen.
 
-### Computational Thinking in de Klas
+### Computational Thinking in de klas
 
 **Eljakim Schrijvers**
 
@@ -142,3 +141,33 @@ Daarnaast heeft u inzicht gekregen in de SOLO-taxonomie en weet u hoe u die als 
 **Jacqueline Nijenhuis-Voogt, Jacco Gnodde en Tim Steenvoorden**
 
 “Algoritmiek, berekenbaarheid en logica” is de titel van een keuzemodule in het nieuwe curriculum. Bij deze module staat de kwaliteit van algoritmen centraal. Ben je benieuwd wat dit inhoudt en wil je er meer over te weten komen? Kom dan naar deze workshop en laat je voorlichten over deze keuzemodule.
+
+## Keuzedomeinen J en P: Games maken en ervaren
+
+**René van der Veen**
+
+De module games maken en ervaren is nog in ontwikkeling en dekt de keuzedomeinen J (programmeerparadigma’s: OO met Javascript) en P (user experience).
+
+We hebben geprobeerd om het thema programmeerparadigma’s op een toegankelijke manier aan te bieden aan leerlingen door materiaal te ontwikkelen waarmee leerlingen snel zelf aan de slag kunnen in een aantrekkelijke context. De consequentie van deze keuze is dat we vandaan blijven bij de meer theoretische en abstracte aspecten van object-georiënteerd programmeren (OO).
+
+User Experience is het vakgebied dat zich richt op alles wat te maken heeft met de ervaring van een gebruiker met een product, website of in dit geval games. Hierbij passen typische kenmerken van games zoals doel, regels, interactie, score, voortgang, feedback, levels, abstractie en emotie.
+
+Tijdens deze bijeenkomst tonen we de huidige stand van het materiaal en onderbouwen we door gemaakte keuzes. Daarnaast bespreken we vakdidactische aspecten en gaan we in op de verschillende manieren waarop het lesmateriaal in de klas kan worden aangeboden.
+
+Wie een laptop meeneemt, kan bovendien zelf aan de slag met het materiaal.
+
+## Studententeam Project MARCH (TU Delft) maakt exoskelet
+
+**Britt Sticker, Olav de Haas, Cilia Claij**
+
+Project MARCH is een dreamteam van de TU Delft, bestaande uit 25 fulltime studenten die zich een jaar bezighouden met het ontwikkelen van een gebruiksvriendelijk en veelzijdig exoskelet. Dit is een gemotoriseerd robotisch harnas dat ingezet kan worden om mensen met een dwarslaesie weer te laten opstaan en lopen.
+In het team hebben we allerlei functies zitten, waaronder ook een aantal met een informatica achtergrond. Zij houden zich onder andere bezig met het meer balancerend maken van het exoskelet. Op dit moment heeft elke piloot namelijk twee krukken nodig om in balans te blijven. Dit jaar zijn we daarom bezig met het implementeren van software om het exoskelet actief balancerend te maken. In mei 2020 zullen wij meedoen met de ‘Cybathlon’, ook wel de Bionische Spelen genoemd. Deze wedstrijd is maar eens in de vier jaar en heeft 6 verschillende disciplines zoals Brain Computer Interface, de Leg Prosthesis Race en de Powered Exoskeleton Race. Aan deze laatste genoemde discipline zullen wij deelnemen. Dit kan gezien worden als het wereldkampioenschap voor exoskeletten. We moeten in totaal 6 obstakels over om de wedstrijd te voltooien. De Cybathlon forceert de teams om te innoveren door de obstakels steeds aan te passen. Dit jaar is het focuspunt balans, vandaar dat het ook heel belangrijk is dat software hier aandacht aan besteed. Aangezien de wedstrijd al in mei is, hebben we niet genoeg tijd om een heel nieuw exoskelet te bouwen. In tegenstelling tot andere jaren zullen we dus het exoskelet van het vorige jaar door ontwikkelen.  Er is daarom meer tijd om te focussen op software, waar ook nog het meeste te halen valt in ons exoskelet. We hebben dit jaar maar liefst negen functies die onder software vallen!
+
+
+Na deze sessie:
+
+- Weet je wat een exoskelet is
+- Weet je wat de voordelen van exoskeletten zijn
+- Weet je wat Project MARCH inhoudt
+- Weet je wat de Cybathlon is
+- Weet je waarom software onmisbaar is bij het ontwikkelen van een exoskelet

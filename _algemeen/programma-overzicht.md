@@ -171,3 +171,11 @@ Na deze sessie:
 - Weet je wat Project MARCH inhoudt
 - Weet je wat de Cybathlon is
 - Weet je waarom software onmisbaar is bij het ontwikkelen van een exoskelet
+
+## Fundament Informatica, docenten aan het woord
+
+*Adriaan Gijssen (Instruct)*
+
+Inmiddels is het alweer meer dan een jaar geleden dat ons lesmateriaal voor het nieuwe examenprogramma beschikbaar is gekomen. Tijdens deze workshop vertellen twee enthousiaste docenten (Jeroen de Brouwer, Ichthus Lyceum en Kevin Krul, dr. Mollercollege) hoe ze iedere dag met ons lesmateriaal de leerlingen weten te boeien en uit te dagen.
+
+Ben jij ook benieuwd naar ervaringen en praktische toepassingen van en door collega-docenten? Bezoek dan deze workshop!

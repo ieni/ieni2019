@@ -174,7 +174,7 @@ Na deze sessie:
 
 ## Fundament Informatica, docenten aan het woord
 
-*Adriaan Gijssen (Instruct)*
+**Adriaan Gijssen (Instruct)**
 
 Inmiddels is het alweer meer dan een jaar geleden dat ons lesmateriaal voor het nieuwe examenprogramma beschikbaar is gekomen. Tijdens deze workshop vertellen twee enthousiaste docenten (Jeroen de Brouwer, Ichthus Lyceum en Kevin Krul, dr. Mollercollege) hoe ze iedere dag met ons lesmateriaal de leerlingen weten te boeien en uit te dagen.
 

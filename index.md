@@ -27,3 +27,5 @@ Klik op de figuren voor een grotere versie.
 ## Sponsoren
 
 Onze sponsoren leveren een belangrijke bijdrage aan het totstandkomen van deze conferentie.
+
+<img src="{{'/public/images/sponsoren-2019-a.jpg' | relative_url}}" width="700">

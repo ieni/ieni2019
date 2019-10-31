@@ -21,6 +21,8 @@ Klik op de figuren voor een grotere versie.
 
 [<img src="{{'/public/images/programma-6-nov-2019.png' | relative_url}}" width="700">]({{'/public/images/programma-6-nov-2019.pdf' | relative_url}}){:target="_blank"}
 
+[Samenvattingen van de sessies]({{'/algemeen/programma-overzicht.html' | relative_url}})
+
 [<img src="{{'/public/images/programma-7-nov-2019.png' | relative_url}}" width="700">]({{'/public/images/programma-7-nov-2019.pdf' | relative_url}}){:target="_blank"}
 
 [Samenvattingen van de sessies]({{'/algemeen/programma-overzicht.html' | relative_url}})

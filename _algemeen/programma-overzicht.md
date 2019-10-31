@@ -179,3 +179,9 @@ Na deze sessie:
 Inmiddels is het alweer meer dan een jaar geleden dat ons lesmateriaal voor het nieuwe examenprogramma beschikbaar is gekomen. Tijdens deze workshop vertellen twee enthousiaste docenten (Jeroen de Brouwer, Ichthus Lyceum en Kevin Krul, dr. Mollercollege) hoe ze iedere dag met ons lesmateriaal de leerlingen weten te boeien en uit te dagen.
 
 Ben jij ook benieuwd naar ervaringen en praktische toepassingen van en door collega-docenten? Bezoek dan deze workshop!
+
+## Sponsoren
+
+Onze sponsoren leveren een belangrijke bijdrage aan het totstandkomen van deze conferentie.
+
+<img src="{{'/public/images/sponsoren-2019-a.jpg' | relative_url}}" width="700">

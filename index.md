@@ -10,22 +10,22 @@ Hier vind je het programma, en later de presentaties en andere materialen.
 
 ## Praktische gegevens
 
-* [Aanmelden is vanaf nu mogelijk!](https://www.smink-registratie.nl/ieni/)
+* [Aanmelden is vanaf nu mogelijk!](https://www.smink-registratie.nl/ieni/){:target="_blank"}
 * data: woensdag 6 november van 16.00 tot 20.30 uur, donderdag 7 november van 9.00 tot 17.00 uur
 * locatie: [Koningsbergergebouw van de Universiteit Utrecht](https://goo.gl/maps/7CdkZcuYwsL2).
 
 ## Programma
 
 Klik op de figuren voor een grotere versie.
-[Beschrijvingen van de sessies]({{'/algemeen/programma-overzicht.html' | relative_url}})
+[Beschrijvingen van de sessies]({{'/algemeen/programma-overzicht.html' | relative_url}}){:target="_blank"}
 
 [<img src="{{'/public/images/programma-6-nov-2019.png' | relative_url}}" width="700">]({{'/public/images/programma-6-nov-2019.pdf' | relative_url}}){:target="_blank"}
 
-[Beschrijvingen van de sessies]({{'/algemeen/programma-overzicht.html' | relative_url}})
+[Beschrijvingen van de sessies]({{'/algemeen/programma-overzicht.html' | relative_url}}){:target="_blank"}
 
 [<img src="{{'/public/images/programma-7-nov-2019.png' | relative_url}}" width="700">]({{'/public/images/programma-7-nov-2019.pdf' | relative_url}}){:target="_blank"}
 
-[Beschrijvingen van de sessies]({{'/algemeen/programma-overzicht.html' | relative_url}})
+[Beschrijvingen van de sessies]({{'/algemeen/programma-overzicht.html' | relative_url}}){:target="_blank"}
 
 ## Sponsoren
 

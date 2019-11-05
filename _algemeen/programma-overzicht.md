@@ -7,6 +7,8 @@ thema: programma-overzicht
 
 Voor alle 12 keuzethema's in het examenprogramma ontwikkelt SLO een uitgebreide lesmodule. Inmiddels zijn negen van deze modules ver gevorderd of afgerond. De kartrekkers van deze negen modules begeleiden tijdens de conferentie ieder een workshop waarin zij u een introductie geven in het keuzethema en het lesmateriaal. Voor uitgebreidere cursussen over deze keuzethema's en het lesmateriaal, zie: https://ieni.github.io/inf2019/nascholing.html
 
+**Neem je laptop mee! Er zijn veel sessies waar je zelf aan de slag kunt gaan.**
+
 
 ## Keynote "Effectief leren programmeren"
 
@@ -73,7 +75,7 @@ Informatie over de competitie is te vinden op: https://www.paconsulting.com/eve
 
 ## Virtuele Race met zelfrijdende auto’s
 
-**Spreker:	Karel Bruneel**
+**Karel Bruneel**
 
 Tijdens de *i&i* Autonome race Championships moet je een autonome racewagen programmeren met behulp van Google Blockly of Javascript en daarmee - in een virtuele race - tegen je medespelers racen. Het is een leuke manier om programmeer- en engineeringvaardigheden op te bouwen. Er is geen voorkennis nodig.
 
@@ -104,7 +106,7 @@ Het programma kan hier worden gedownload: http://sonic-pi.net
 
 ## NumWorks   (sessie in Engels)
 
-**Spreker:	Leo Solé**
+**Leo Solé**
 
 The session will give a brief presentation of Python and focus on how to code in python with the NumWorks calculator. The session will be illustrated with concrete situations and you will learn how to draw with a Turtle ;)
 
@@ -179,6 +181,34 @@ Na deze sessie:
 Inmiddels is het alweer meer dan een jaar geleden dat ons lesmateriaal voor het nieuwe examenprogramma beschikbaar is gekomen. Tijdens deze workshop vertellen twee enthousiaste docenten (Jeroen de Brouwer, Ichthus Lyceum en Kevin Krul, dr. Mollercollege) hoe ze iedere dag met ons lesmateriaal de leerlingen weten te boeien en uit te dagen.
 
 Ben jij ook benieuwd naar ervaringen en praktische toepassingen van en door collega-docenten? Bezoek dan deze workshop!
+
+## De Schoonheid en Vreugde van BJOC-NL
+
+**Casper Kole**
+
+Leren programmeren kan vaak alleen maar in het Engels, om die reden is besloten om The Beauty of Joy and Computing te vertalen naar het Nederlands, een belangrijke reden is dat dit lespakket veel gebruik maakt van creativiteit van de leerlingen. Waarom dit lespakket nog meer interessant is, leer je bij deze presentatie.
+
+Na deze sessie:
+- Ken je BJOC.nl
+- Wil je het misschien gebruiken in de les
+
+
+## Keuzedomein J: Programmeer-paradigma’s/ Functioneel programmeren
+
+**Kees Huizing & Hans van den Burg**
+
+De module introduceert de belangrijkste programmeerparadigma’s en werkt het paradigma functioneel programmeren verder uit aan de hand van de taal Elm. Deze taal is geschikt om de basisconcepten van ‘klassiek’ functioneel programmeren te leren (Haskellstijl), maar ook om op een compacte manier websites te bouwen. In het toepassingendeel bouwen de leerlingen op basis van voorbeelden een aantal interactieve webpagina’s. 
+
+
+## Krijg inzicht in hoe het Internet of Things onze wereld slimmer maakt - en hoe jij en je leerlingen daaraan mee kunnen doen.
+
+**Willem Jan Derks (Cisco) **
+
+Cisco heeft in het kader van hun online NetAcademy-programma een cursus Internet of Things ontwikkeld, voor gebruik in het Nederlandse VO. Het materiaal is bedoeld voor klas 4 HAVO/VWO of hoger. Het kan gebruikt worden als onderdeel van het vak Informatica, maar ook scholen die geen Informatica aanbieden kunnen het inzetten: er is geen speciale voorkennis nodig. Het materiaal is voor VO-docenten gratis te gebruiken. De omvang van het materiaal is voldoende voor een blok van 8-10 weken, van 1-2 lesuren per week, eventueel uit te breiden met praktisch werk tot een module van 40 SLU. Het is ook mogelijk om delen van deze cursus te gebruiken.
+
+De Cisco-cursus Internet of Things is grotendeels complementair aan het materiaal dat ontwikkeld is voor het keuzethema Netwerken/Internet of Things. Dit laatste materiaal vraagt meer voorkennis. De Cisco-cursus kan ook als voorbereiding voor dat materiaal gebruikt worden.
+
+Na een eerste inleiding, met een overzicht van het materiaal en de manier waarop dit gebruikt kan worden, ga je aan de slag met een aantal van de praktische opdrachten. Je maakt daarbij onder meer gebruik van LoRa IoT-apparaten, verbonden in het The Things Network LoRa-netwerk. Deze apparaten kun je vervolgens benaderen via NodeRed.
 
 ## Sponsoren
 

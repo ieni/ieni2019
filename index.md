@@ -12,7 +12,7 @@ Hier vind je het programma, en later de presentaties en andere materialen.
 
 * [Aanmelden is vanaf nu mogelijk!](https://www.smink-registratie.nl/ieni/){:target="_blank"}
 * Data: woensdag 6 november van 16.00 tot 20.30 uur, donderdag 7 november van 9.00 tot 17.00 uur
-* Locatie: [Koningsbergergebouw van de Universiteit Utrecht](https://goo.gl/maps/7CdkZcuYwsL2).
+* Locatie: [Koningsbergergebouw van de Universiteit Utrecht](https://goo.gl/maps/7CdkZcuYwsL2){:target="_blank"}.
 * **Neem je laptop mee! Er zijn veel sessies waar je zelf aan de slag kunt.**
 
 ## Programma

@@ -5,7 +5,7 @@ thema: programma-overzicht
 ---
 
 
-Voor alle 12 keuzethema's in het examenprogramma ontwikkelt SLO een uitgebreide lesmodule. Inmiddels zijn negen van deze modules ver gevorderd of afgerond. De kartrekkers van deze negen modules begeleiden tijdens de conferentie ieder een workshop waarin zij u een introductie geven in het keuzethema en het lesmateriaal. Voor uitgebreidere cursussen over deze keuzethema's en het lesmateriaal, zie: https://ieni.github.io/inf2019/nascholing.html
+Voor alle 12 keuzethema's in het examenprogramma ontwikkelt SLO een uitgebreide lesmodule. Inmiddels zijn negen van deze modules ver gevorderd of afgerond. De kartrekkers van deze negen modules begeleiden tijdens de conferentie ieder een workshop waarin zij u een introductie geven in het keuzethema en het lesmateriaal. Voor uitgebreidere cursussen over deze keuzethema's en het lesmateriaal, zie: [https://ieni.github.io/inf2019/nascholing.html](https://ieni.github.io/inf2019/nascholing.html){:target="_blank"}.
 
 **Neem je laptop mee! Er zijn veel sessies waar je zelf aan de slag kunt gaan.**
 

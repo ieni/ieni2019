@@ -4,13 +4,8 @@ layout: thema
 thema: algoritmiek
 ---
 
-**Christian Köppe, Jacqueline Nijenhuis-Voogt, Jacco Gnodde, Renske Smetsers-Weeda**
+## Algoritmiek, berekenbaarheid en logica
 
-Presentatie: [Keuzethema Algoritmiek]({{ site.baseurl }}/themas/algoritmiek/koppe-algoritmiek.pdf){:target="_blank"}
+**Jacco Gnodde, Jacqueline Nijenhuis-Voogt & Tim Steenvoorden**
 
-“Algoritmiek, Berekenbaarheid en Logica” is één van de keuzethema’s in het nieuwe examenprogramma.
-Het bouwt voort op de introductie van algoritmiek in het kernprogramma en laat de leerlingen in verschillende contexten leren wat de complexiteit van algoritmen is.
-Daarbij staat het analyseren van algoritmen centraal.
-Ook leren leerlingen hoe logica kan worden gebruikt om digitale eigenschappen van artefacten te beschrijven.
-De ontwikkeling van deze lesmodule is inmiddels begonnen en in deze workshop presenteren we de eerste globale opzet (feedback daarop is welkom).
-Daarnaast zullen de deelnemers een aantal oefeningen doen om te laten zien dat dit onderwerp niet zo droog en stoffig is als het misschien lijkt.
+“Algoritmiek, berekenbaarheid en logica” is de titel van een keuzemodule in het nieuwe curriculum. Bij deze module staat de kwaliteit van algoritmen centraal. Ben je benieuwd wat dit inhoudt en wil je er meer over te weten komen? Kom dan naar deze workshop en laat je voorlichten over deze keuzemodule.
